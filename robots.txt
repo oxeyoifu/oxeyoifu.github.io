@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://oxeyoifu.github.io/USL/sitemap_index.txt
+Sitemap: https://oxeyoifu.github.io/bSE/sitemap_index.txt
+Sitemap: https://oxeyoifu.github.io/owp/sitemap_index.txt
+Sitemap: https://oxeyoifu.github.io/sLD/sitemap_index.txt
